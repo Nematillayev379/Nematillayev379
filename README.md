@@ -64,7 +64,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=500&lines=→+React+%2B+TypeScript+%2B+Vite;→+Ant+Design+%2F+shadcn%2Fui;→+Tailwind+%2F+Sass+%2F+Bootstrap;→+Clean+code.+Fast+UI.+Real+results." alt="Typing SVG" />
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VIEW_MY_WORK-D4AF37?style=for-the-badge&labelColor=0d0d0d)](https://effulgent-tiramisu-a8a5df.netlify.app/)
 
 </div>
 
@@ -120,7 +120,7 @@ export default {
 ╚══════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=555555&center=true&vCenter=true&width=260&lines=Zamonaviy+veb-interfeyslar...;Tez+va+chiroyli+UI...;Professional+mahsulotlar..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=888888&center=true&vCenter=true&width=260&lines=Zamonaviy+veb-interfeyslar...;Tez+va+chiroyli+UI...;Professional+mahsulotlar..." />
 
 </td>
 </tr>
@@ -136,32 +136,17 @@ export default {
 
 <br/>
 
-**— LANGUAGES —**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,sass,bootstrap,git,github,figma,vscode&theme=dark&perline=7" />
 
 <br/><br/>
 
-**— FRAMEWORKS & LIBRARIES —**
-
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=6" />
-
-<br/>
-
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white&labelColor=0a0a0a)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0a0a0a)
-
-<br/><br/>
-
-**— STYLING —**
-
-<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap&theme=dark&perline=6" />
-
-<br/><br/>
-
-**— TOOLS —**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=6" />
+| Category | Technologies |
+|:---:|:---|
+| **Languages** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **UI Libraries** | ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
@@ -210,18 +195,19 @@ export default {
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/──────%20TELEGRAM%20──────-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/──────%20GITHUB%20──────-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nematillayev379)
+<a href="https://t.me/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-@YOUR__USERNAME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://github.com/Nematillayev379">
+  <img src="https://img.shields.io/badge/GitHub-Nematillayev379-D4AF37?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+</a>
 
-<br/>
+<br/><br/>
 
-```
-╔═══════════════════════════════════════════╗
-║  Open to freelance & collaboration        ║
-║  Frontend projects — UI/UX implementation ║
-║  React • TypeScript • Tailwind            ║
-╚═══════════════════════════════════════════╝
-```
+> 💼 **Open to freelance & collaboration**
+> 
+> React • TypeScript • Tailwind • Ant Design • shadcn/ui
 
 <br/>
 
