@@ -9,7 +9,7 @@
 █▄ ██▄ █▀▄ █▄█
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1c1c1c&height=150&section=header&text=JASURBEK%20NEMATILLAYEV&fontSize=38&fontColor=D4AF37&animation=blinking&fontAlignY=55&desc=────────────────────────────────&descAlignY=80&descColor=333333" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1c1c1c&height=150&section=header&text=JASURBEK%20NEMATILLAYEV&fontSize=38&fontColor=D4AF37&animation=fadeIn&fontAlignY=55&desc=────────────────────────────────&descAlignY=80&descColor=333333" />
 
 <br/>
 
