@@ -1,69 +1,70 @@
-  <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jasurbek%20Nematillayev&fontSize=50&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tashkent%2C%20Uzbekistan&descAlignY=58&descSize=18&descColor=ffffff" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=⚡+React+%2B+TypeScript+Developer;🎨+Clean+%26+Beautiful+UI+Builder;🚀+17+y.o.+%7C+Tashkent%2C+Uzbekistan;💡+Always+learning%2C+always+growing" alt="Typing SVG" />
-
-<br/><br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/Nematillayev379?style=for-the-badge&color=D4AF37&labelColor=1a1a2e&label=Followers)](https://github.com/Nematillayev379)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a1a1a,100:000000&height=4&section=header" />
 
 <br/>
 
----
-
-## 🪙 About Me
-
-```javascript
-const jasurbek = {
-  name     : "Nematillayev Jasurbek",
-  age      : 17,
-  location : "Tashkent, Uzbekistan 🇺🇿",
-  role     : "Frontend Developer",
-  skills   : ["React", "TypeScript", "Tailwind", "Vite", "Ant Design", "shadcn/ui"],
-  learning : ["Next.js", "Node.js"],
-  goal     : "Professional darajada mahsulotlar yaratish 🎯",
-  available: true  // Open to work!
-};
+```
+▀█ █▀▀ █▀█ █▀█
+█▄ ██▄ █▀▄ █▄█
 ```
 
-> 💬 *Zamonaviy, tez va chiroyli veb-interfeyslar yaratishga ixtisoslashganman. Har kuni o'sish — mening asosiy maqsadim.*
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,100:1c1c1c&height=150&section=header&text=JASURBEK%20NEMATILLAYEV&fontSize=38&fontColor=D4AF37&animation=blinking&fontAlignY=55&desc=────────────────────────────────&descAlignY=80&descColor=333333" />
 
 <br/>
 
----
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="200">
 
-## ⚡ Tech Stack
+```
+┌─────────┐
+│  AGE    │
+│   17    │
+│  y.o.   │
+└─────────┘
+```
 
-<div align="center">
+</td>
+<td align="center" width="200">
 
-### 🌐 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+```
+┌─────────────────┐
+│  ROLE           │
+│  Frontend       │
+│  Developer      │
+└─────────────────┘
+```
 
-### ⚛️ Frameworks & UI Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+</td>
+<td align="center" width="200">
 
-### 🎨 Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+```
+┌─────────────────┐
+│  BASE           │
+│  Tashkent       │
+│  Uzbekistan 🇺🇿  │
+└─────────────────┘
+```
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</td>
+<td align="center" width="200">
+
+```
+┌─────────┐
+│ STATUS  │
+│  OPEN   │
+│ TO WORK │
+└─────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=500&lines=→+React+%2B+TypeScript+%2B+Vite;→+Ant+Design+%2F+shadcn%2Fui;→+Tailwind+%2F+Sass+%2F+Bootstrap;→+Clean+code.+Fast+UI.+Real+results." alt="Typing SVG" />
 
 </div>
 
@@ -71,16 +72,96 @@ const jasurbek = {
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+## `< WHO AM I />`
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+```ts
+// nematillayev.config.ts
+
+export default {
+  name:     "Jasurbek Nematillayev",
+  age:      17,
+  location: "Tashkent, Uzbekistan",
+  role:     "Frontend Developer",
+
+  stack: {
+    languages:  ["HTML", "CSS", "JS", "TS"],
+    frameworks: ["React", "Vite"],
+    ui_libs:    ["Ant Design", "shadcn/ui"],
+    styling:    ["Tailwind", "Sass", "Bootstrap"],
+    tools:      ["Git", "GitHub", "Figma", "VS Code"],
+  },
+
+  currently: "Building fast & clean UIs 🚀",
+  goal:      "Ship professional products",
+  open:       true, // available for work
+} satisfies Developer;
+```
+
+</td>
+<td width="45%" align="center">
+
+```
+╔══════════════════════════╗
+║                          ║
+║   "Har kuni o'sish —     ║
+║    mening asosiy         ║
+║    maqsadim."            ║
+║                          ║
+║          — Jasurbek      ║
+║                          ║
+╚══════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=555555&center=true&vCenter=true&width=260&lines=Zamonaviy+veb-interfeyslar...;Tez+va+chiroyli+UI...;Professional+mahsulotlar..." />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nematillayev379&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=D4AF37&border_color=D4AF37&bg_color=0d1117&text_color=ffffff&hide_border=false&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematillayev379&layout=compact&theme=tokyonight&title_color=D4AF37&border_color=D4AF37&bg_color=0d1117&text_color=ffffff" />
+## `< TECH STACK />`
+
+<br/>
+
+**— LANGUAGES —**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nematillayev379&theme=tokyonight&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&background=0d1117&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+**— FRAMEWORKS & LIBRARIES —**
+
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=6" />
+
+<br/>
+
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white&labelColor=0a0a0a)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0a0a0a)
+
+<br/><br/>
+
+**— STYLING —**
+
+<img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap&theme=dark&perline=6" />
+
+<br/><br/>
+
+**— TOOLS —**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=6" />
 
 </div>
 
@@ -88,11 +169,22 @@ const jasurbek = {
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nematillayev379&theme=darkhub&column=6&margin-w=10&margin-h=10&title_color=D4AF37" />
+## `< GITHUB STATS />`
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nematillayev379&show_icons=true&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&border_radius=6&hide_border=false&rank_icon=github&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nematillayev379&layout=compact&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&border_color=D4AF37&border_radius=6" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Nematillayev379&theme=transparent&background=0D0D0D&ring=D4AF37&fire=FFA500&currStreakLabel=D4AF37&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=D4AF37&border_radius=6" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nematillayev379&theme=darkhub&column=6&margin-w=8&no-bg=true&no-frame=false" />
 
 </div>
 
@@ -102,10 +194,41 @@ const jasurbek = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
+## `< ACTIVITY />`
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nematillayev379&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nematillayev379&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=false&border_color=D4AF37&radius=6" />
 
-**⭐ Agar loyihalarim yoqsa — star bosing!**
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## `< CONNECT />`
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/──────%20TELEGRAM%20──────-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/──────%20GITHUB%20──────-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nematillayev379)
+
+<br/>
+
+```
+╔═══════════════════════════════════════════╗
+║  Open to freelance & collaboration        ║
+║  Frontend projects — UI/UX implementation ║
+║  React • TypeScript • Tailwind            ║
+╚═══════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:D4AF37,100:000000&height=2&section=footer" />
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=Nematillayev379&color=D4AF37&style=flat-square&label=profile+views)
 
 </div>
